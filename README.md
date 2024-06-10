@@ -1,6 +1,6 @@
 # screen v4.5.0 Privilege Escalation
 `Updated GNU Screen 4.5.0 Exploit:` This repository hosts an enhanced exploit for `GNU Screen 4.5.0` that is related to OSCP Machine. It includes modifications for compatibility with the latest binary configurations in Kali Linux. Intended for educational and research purposes to demonstrate privilege escalation.
-- The orginal lib <a href="https://github.com/XiphosResearch/exploits/blob/master/screen2root/README.md"> Old Exploit</a> 
+- The orginal lib <a href="https://github.com/XiphosResearch/exploits/blob/master/screen2root/README.md"> github-lib</a> and <a href="https://www.exploit-db.com/exploits/41154"> exploit-db</a> 
 - The orginal Report <a href="https://lists.gnu.org/archive/html/screen-devel/2017-01/msg00025.html">Bug Report</a>
 
 <p align="center"><img src="https://github.com/YasserREED/screen-v4.5.0-priv-escalate/blob/main/img/Front-img.png"></p>
